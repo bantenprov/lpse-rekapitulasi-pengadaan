@@ -1,0 +1,46 @@
+[
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket B",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          120,
+          200,
+          150
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2018",
+      "data": [
+        "SD/MI/Paket A",
+        "SMP/MTS/Paket F",
+        "SMA/SMK/Paket C"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          50,
+          30,
+          350
+        ]
+      }
+    ]
+  }
+]
