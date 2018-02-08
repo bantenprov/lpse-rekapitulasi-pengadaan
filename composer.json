@@ -26,7 +26,7 @@
             "src/helpers/helpers.php"
         ],
         "psr-4": {
-            "Bantenprov\\StatusRekapitulasiPengadaan\\": "src"
+            "Bantenprov\\RekapitulasiPengadaan\\": "src"
         }
     },
     "minimum-stability": "dev"
