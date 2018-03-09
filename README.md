@@ -56,8 +56,8 @@ $ git clone https://github.com/bantenprov/lpse-rekapitulasi-pengadaan.git
 #### Untuk publish component vue :
 
 ```bash
-$ php artisan vendor:publish --tag=lpse-rekapitulasi-pengadaan-assets
-$ php artisan vendor:publish --tag=lpse-rekapitulasi-pengadaan-public
+$ php artisan vendor:publish --tag=rekapitulasi-pengadaan-assets
+$ php artisan vendor:publish --tag=rekapitulasi-pengadaan-public
 ```
 #### Tambahkan route di dalam route : `resources/assets/js/routes.js` :
 
